@@ -1,21 +1,11 @@
-![Estático](https://img.shields.io/badge/Legion--del--Mal-Última--Versión-blue)
 
-![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+# 🦹‍♂️ La Legión del Mal!!!
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/klerithx2/legion-del-mal/ci.yml)
-![Release](https://img.shields.io/github/v/release/klerithx2/legion-del-mal)
-![Issues](https://img.shields.io/github/issues/klerithx2/legion-del-mal)
-![Último commit](https://img.shields.io/github/last-commit/klerithx2/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/klerithx2/legion-del-mal?cacheSeconds=60)
-
-# 🦹‍♂️ La Legión del Mal - Desde local
-
-### Es un grupo dedicado a aprender Git + GitHub
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-## ¿Quiénes somos? - Desde remoto y local
+## ¿Quiénes somos? -  Desde Remoto y Local
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 

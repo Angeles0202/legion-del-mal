@@ -1,50 +1,40 @@
-# Notas
+´´´ts
+const suma = (a,b) => a+b;
+console.log(suma(2,3));
+´´
 
-> [!NOTE]
-> Información útil para el lector.
+'''py
+def saludar (nombre):
+  return f"Hola,{nombre}!"
+'''
+🚀
 
-> [!WARNING]
-> Algo que requiere atención.
-
-
-```ts
-const suma = (a, b) => a + b;
-console.log(suma(2, 3));
-```
-```python
-def saludar(nombre):
-  return f"Hola, {nombre}!"
-```
-
-
-
-
-- [X] hecha
-- [ ] tarea
-- [ ] tarea
-- [X] hecha
-- [ ] tarea
-- [X] hecha
-- [X] hecha
-
+# Lista de tareas (Checklist)
+- [x] Tarea completada
+- [ ] Tarea pendiente
 
 - item 1
-- item 4
 - item 2
 - item 3
+- item 4
+
+# Lista numerada
+1. Primer paso
+2. Segundo paso
+
+# Lista de tareas (Checklist)
+- [x] Tarea completada
+- [ ] Tarea pendiente
 
 
-**negrita** Texto en negrita.
+Negrita **texto**
+textoCursiva *texto*
+textoTachado ~~texto~~
+textoSubtítulo (Encabezados)
+código Código en línea dentro de una frase.
 
-*cursiva* Texto en cursiva.
-
-~~tachado~~ Texto tachado.
-
-`código` Código en línea dentro de una frase.
-
-
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
+# Titulo 1
+## Titulo 2
+### Titulo 3
+##### Titulo 4
+###### Titulo 5
